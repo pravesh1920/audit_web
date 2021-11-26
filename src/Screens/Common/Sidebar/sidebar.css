@@ -1,0 +1,20 @@
+.sidebarWrap
+{
+  background-color:"blue" !important;
+  min-width:40%;
+}
+
+ul li.active a {
+    color: #FC5404;
+ border-left-color: #FC5404;
+ cursor: pointer;
+}
+ul li {
+    line-height: 50px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+}
+.actioanble{
+  line-height: 20px !important;
+}
+   

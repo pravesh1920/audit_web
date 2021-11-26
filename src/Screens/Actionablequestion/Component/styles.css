@@ -1,0 +1,18 @@
+.main{
+    background-color:#e9ecef;
+    display: flex;
+    height: 2rem;
+    justify-content: space-between;
+}
+.range{
+    width: 400px;
+    background-color: #407dec;
+    display: flex;
+    height: 2rem;
+    justify-content: space-between;
+  }
+.prog{
+    text-align: right;
+    color: white;
+    margin-right: 5px;
+  }
